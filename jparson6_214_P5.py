@@ -12,7 +12,6 @@
 #Assumptions-
 # See Project 5 pdf and Project basics
 #
-#Comments- Using 2 emergency days for this project
 #
 #
 #-------------------------------------------------------------------------------
@@ -243,15 +242,7 @@ def vigenere_decode(secret, message):
 
 #def rail_decode(num_rails, message): 
 
-########################## FILE I/O ############################################
 
-#def read_mapping_file(file_name):
-
-#def write_mapping_file(file_name, mapping):
-
-#def encode_to_file(cipher_name, cipher_info, file_name): 
-
-#def decode_from_file(file_name): 
 
 
 
